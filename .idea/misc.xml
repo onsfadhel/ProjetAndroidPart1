@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/drawable/check.xml" value="0.2703125" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/drawable/username.xml" value="0.2703125" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/font/lemonada_semibold.xml" value="0.284375" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/activity_detail_intervention.xml" value="0.2" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/activity_historique.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/activity_interventions.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/activity_welcome.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/app_bar_interventions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/content_interventions.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_chercher_photo.xml" value="0.121875" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_detail_intervention.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_detail_intervention2.xml" value="0.536" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_fichiers.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_gallery.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_prendre_photo.xml" value="0.264" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_signature.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/fragment_tabbed.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/item_inter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/item_intervention.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/item_photo.xml" value="0.1" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/layout/nav_header_interventions.xml" value="0.264" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/fadhe/AndroidStudioProjects/projectAndroid/app/src/main/res/menu/interventions.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

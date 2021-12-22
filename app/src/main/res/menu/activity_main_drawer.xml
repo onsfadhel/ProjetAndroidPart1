@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/grp1">
+            <item
+                android:id="@+id/nav_interventions"
+                android:icon="@drawable/interventions"
+                android:title="@string/interventions" />
+            <item
+                android:id="@+id/nav_interventionsAssigner"
+                android:icon="@drawable/interventionaassigner"
+                android:title="@string/interventions_assigner" />
+            <item
+                android:id="@+id/nav_messages"
+                android:icon="@drawable/messages"
+                android:title="@string/messages" />
+            <item
+                android:id="@+id/nav_client"
+                android:icon="@drawable/client"
+                    android:title="@string/client" />
+            <item
+                android:id="@+id/nav_adresses"
+                android:icon="@drawable/adresse"
+                android:title="@string/adresses" />
+    </group>
+    <group android:id="@+id/grp2">
+        <!--group2-->
+            <item
+                android:id="@+id/nav_parametres"
+                android:icon="@drawable/setting"
+                android:title="@string/parametres" />
+
+
+            <item
+                android:id="@+id/nav_propos"
+                android:icon="@drawable/propos"
+                android:title="@string/a_propos" />
+
+            <item
+                android:id="@+id/nav_deconnexion"
+                android:icon="@drawable/deconnexion"
+                android:title="@string/deconnexion"
+                android:onClick="logout"/>
+    </group>
+
+
+</menu>
