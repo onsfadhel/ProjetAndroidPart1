@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
             String result = "";
             String user = strings[0];
             String pass = strings[1];
-            String connstr="http://192.168.1.6//application android//loginemployes.php";
+            String connstr="http://19//application android//loginemployes.php";
             try{
                 URL url = new URL(connstr);
                 HttpURLConnection http=(HttpURLConnection) url.openConnection();
